@@ -1,5 +1,5 @@
 # Project Proposal
-Team members for this project: Kiara Chombo, Connor DeLeon, Hannah Horiuchi, Jeffrey Saeteros 
+Team members for this project: [Kiara Chombo](https://github.com/k1arac), [Connor DeLeon](https://github.com/cnnrdel), [Hannah Horiuchi](https://github.com/hah8236), [Jeffrey Saeteros](https://github.com/jeffreysaeteros)
 
 Project Name: ReadTrack: Your Personal Bookshelf in the Cloud 
 
